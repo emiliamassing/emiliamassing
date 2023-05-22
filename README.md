@@ -3,7 +3,7 @@
 #### Currently Learning: Vue
 
 #### Studied Languages and Techniques:
-HTML
+HTML <br>
 CSS/SCSS
 JavaScript/TypeScript
 SQL & NoSQL
