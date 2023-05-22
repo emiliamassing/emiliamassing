@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Currently Learning: 
+Vue
+
 <!--
 **emiliamassing/emiliamassing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
