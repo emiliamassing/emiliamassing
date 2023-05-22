@@ -1,8 +1,6 @@
-### Hi there 👋
+### Currently Learning: Vue
 
-#### Currently Learning: Vue
-
-#### Studied Languages and Techniques:
+### Studied Languages and Techniques:
 HTML <br>
 CSS/SCSS <br>
 JavaScript/TypeScript <br>
