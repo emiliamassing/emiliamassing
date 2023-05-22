@@ -1,7 +1,22 @@
 ### Hi there 👋
 
-#### Currently Learning: 
-Vue
+#### Currently Learning: Vue
+
+#### Studied Languages and Techniques:
+HTML
+CSS/SCSS
+JavaScript/TypeScript
+SQL & NoSQL
+NodeJs
+PHP
+
+Vite
+Parcel
+Express
+Mongoose
+MySql / MariaDB
+Jest
+Cypress
 
 <!--
 **emiliamassing/emiliamassing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
