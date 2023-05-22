@@ -4,19 +4,21 @@
 
 #### Studied Languages and Techniques:
 HTML <br>
-CSS/SCSS
-JavaScript/TypeScript
-SQL & NoSQL
-NodeJs
-PHP
+CSS/SCSS <br>
+JavaScript/TypeScript <br>
+SQL & NoSQL <br>
+NodeJs <br>
+PHP <br>
 
-Vite
-Parcel
-Express
-Mongoose
-MySql / MariaDB
-Jest
-Cypress
+<br>
+
+Vite <br>
+Parcel <br>
+Express <br>
+Mongoose <br>
+MySql / MariaDB <br>
+Jest <br>
+Cypress <br>
 
 <!--
 **emiliamassing/emiliamassing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
