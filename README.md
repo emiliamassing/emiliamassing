@@ -8,8 +8,6 @@ SQL & NoSQL <br>
 NodeJs <br>
 PHP <br>
 
-<br>
-
 Vue<br>
 
 Vite <br>
