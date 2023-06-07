@@ -1,4 +1,4 @@
-### Currently Learning: Vue
+### Currently Learning: React
 
 ### Studied Languages and Techniques:
 HTML <br>
@@ -8,6 +8,8 @@ SQL & NoSQL <br>
 NodeJs <br>
 PHP <br>
 
+<br>
+Vue
 <br>
 
 Vite <br>
