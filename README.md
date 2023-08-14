@@ -13,8 +13,9 @@ Vue<br>
 Vite <br>
 Parcel <br>
 Express <br>
-Mongoose <br>
 MySql / MariaDB <br>
+MongoDB Compass / Studio 3T <br>
+Mongoose <br>
 Jest <br>
 Cypress <br>
 
