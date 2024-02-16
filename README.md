@@ -1,5 +1,3 @@
-### Currently Learning: React
-
 ### Studied Languages and Techniques:
 HTML <br>
 CSS/SCSS <br>
@@ -9,6 +7,7 @@ NodeJs <br>
 PHP <br>
 
 Vue<br>
+React<br>
 
 Vite <br>
 Parcel <br>
